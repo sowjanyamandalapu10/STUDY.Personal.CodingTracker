@@ -4,12 +4,24 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, C# Acadamy! one more modification!");
-            Console.WriteLine("Hello, C# Acadamy! one more modification!");
-            Console.WriteLine("Hello, C# Acadamy! one more modification!");
-            Console.WriteLine("Hello, C# Acadamy! one more modification!");
-            Console.WriteLine("Hello, C# Acadamy! one more modification!");
-            Console.WriteLine("Hello, C# Acadamy! one more modification!");
+            MyFirstMethod();
+            MySecondMethod();
+            MyThirdMethod();
+        }
+
+        static void MyFirstMethod()
+        {
+
+        }
+
+        static void MySecondMethod()
+        {
+
+        }
+
+        static void MyThirdMethod()
+        {
+
         }
     }
 }
